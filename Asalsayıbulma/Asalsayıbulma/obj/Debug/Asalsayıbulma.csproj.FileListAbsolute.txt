@@ -1,0 +1,11 @@
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\Asalsayıbulma\Asalsayıbulma\bin\Debug\Asalsayıbulma.exe.config
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\Asalsayıbulma\Asalsayıbulma\bin\Debug\Asalsayıbulma.exe
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\Asalsayıbulma\Asalsayıbulma\bin\Debug\Asalsayıbulma.pdb
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\Asalsayıbulma\Asalsayıbulma\obj\Debug\Asalsayıbulma.csproj.AssemblyReference.cache
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\Asalsayıbulma\Asalsayıbulma\obj\Debug\Asalsayıbulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\Asalsayıbulma\Asalsayıbulma\obj\Debug\Asalsayıbulma.Form1.resources
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\Asalsayıbulma\Asalsayıbulma\obj\Debug\Asalsayıbulma.Properties.Resources.resources
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\Asalsayıbulma\Asalsayıbulma\obj\Debug\Asalsayıbulma.csproj.GenerateResource.cache
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\Asalsayıbulma\Asalsayıbulma\obj\Debug\Asalsayıbulma.csproj.CoreCompileInputs.cache
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\Asalsayıbulma\Asalsayıbulma\obj\Debug\Asalsayıbulma.exe
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\Asalsayıbulma\Asalsayıbulma\obj\Debug\Asalsayıbulma.pdb
