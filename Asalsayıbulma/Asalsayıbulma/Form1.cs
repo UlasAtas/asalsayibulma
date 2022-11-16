@@ -30,14 +30,15 @@ namespace Asalsayıbulma
                 {
                     if(i%j == 0)
                     {
-                        sayac++;                        
+                        sayac++;
+                        break;
                     }
                 }
 
                 if(sayac == 0)
                 {
                     listBox1.Items.Add(i);
-                    adet++;
+                    adet++;                    
                 }
                 label1.Text = adet.ToString();
             }
