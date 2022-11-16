@@ -18,8 +18,7 @@ namespace Asalsayıbulma
         }        
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
-        {
-            listBox1.Items.Clear();           
+        {                       
             int adet = 0;
 
             for(int i = 2; i <= numericUpDown1.Value; i++)
