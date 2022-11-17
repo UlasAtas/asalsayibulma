@@ -18,14 +18,15 @@ namespace Asalsayıbulma
         }        
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
-        {                       
-            int adet = 0;
+        {
+            listBox1.Items.Clear();
+            uint adet = 0;
 
-            for(int i = 2; i <= numericUpDown1.Value; i++)
+            for(ulong i = 2; i <= numericUpDown1.Value; i++)
             {
-                int sayac = 0;
+                uint sayac = 0;
 
-                for(int j = 2; j<i; j++)
+                for(ulong j = 2; j<i; j++)
                 {
                     if(i%j == 0)
                     {
